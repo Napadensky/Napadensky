@@ -19,7 +19,6 @@
 - React JS, Vue JS ⭐
 - Vuetify, Bootstrap, MaterialUI
 - Python and Flask, Django ⭐
-- C# and .Net Technologies
 - Javascript and NodeJs
 - SQL y NoSQL
 
